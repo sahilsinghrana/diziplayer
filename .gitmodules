@@ -1,6 +1,6 @@
-[submodule "ranexPlayer"]
-	path = ranexPlayer
-	url = https://github.com/sahilsinghrana/ranexPlayer.git
-[submodule "ranexPlayerServer"]
-	path = ranexPlayerServer
+[submodule "server"]
+	path = server
 	url = https://github.com/sahilsinghrana/ranexPlayerServer.git
+[submodule "client"]
+	path = client
+	url = https://github.com/sahilsinghrana/ranexPlayer.git
